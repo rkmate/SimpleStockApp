@@ -7,4 +7,4 @@ Here we are using the stock of Tesla and the code for NASDAQ is *TSLA*
 
 I am using a predifned date range for this which can be altered
 
-The python code is written in the file
+The python code is written in the file codefile1.py
